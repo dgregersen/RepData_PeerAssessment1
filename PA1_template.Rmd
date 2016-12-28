@@ -5,7 +5,7 @@ output:
      keep_md: true
 ---
 
-## Instructions
+## Instructions.
 This scripts assumes that you have changed your working directory to the 
 location of the cloned GitHub repo.
 
