@@ -12,6 +12,7 @@ The following loads the activity data and all necessary libraries.
 library(scales)
 library(ggplot2)
 library(lattice)
+library(knitr)
 if(!exists("activity")) {
     activity <- read.csv(unzip("activity.zip"), header = TRUE)
 }
